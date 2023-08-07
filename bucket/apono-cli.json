@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apono-io/apono-cli/releases/download/v0.3.0/apono-cli_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/apono-io/apono-cli/releases/download/v0.3.1/apono-cli_0.3.1_windows_amd64.zip",
             "bin": [
                 "apono.exe"
             ],
-            "hash": "33b209bef675722a66dcb0c0f2b8fd8d6ab725fb29a253df39038450aac23d21"
+            "hash": "be183e9b97e6fa0240fa111b86d12097105be31861404c0d9da1847735cf3715"
         }
     },
     "homepage": "https://www.apono.io",
